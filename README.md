@@ -31,7 +31,7 @@ Exotic Fruits Dashboard Ui/Ux</h3>
 
 
 # Tutorial 📸
-- <a href="https://youtu.be/wIhke6wfDtk">
+- <a href="https://youtu.be/EPM9_1Tp-rE">
 			Youtube
 		</a> 
 
